@@ -71,9 +71,3 @@ IEnumerator Attack()
         anim.SetBool("isAttack", false);
     }
 ```
-
-
-
-# Reference
-+ 골드메탈님 유튜브 강의 : https://youtu.be/WkMM7Uu2AoA
-+ 에셋 : https://assetstore.unity.com/packages/3d/characters/quarter-view-3d-action-assets-pack-188720
